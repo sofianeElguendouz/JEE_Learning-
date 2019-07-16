@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?> <persistence xmlns="http://java.sun.com/xml/ns/persistence" version="1.0"> <persistence-unit name="MonEntiteEJB3"> <jta-data-source>java:jboss/datasources/ExampleDS</jta-data-source> <properties> <property name="hibernate.hbm2ddl.auto" value="update"/> </properties> </persistence-unit> </persistence>
