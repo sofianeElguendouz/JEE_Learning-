@@ -1,1 +1,2 @@
 This repository contains JEE code during my learnings 
+EJB part, Client part & SOAP Web services part are all in one folder for creating a complete application !
